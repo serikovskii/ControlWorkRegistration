@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Phone>87017057724</Phone>
+  <Email>aza@com.com</Email>
+  <Password>123</Password>
+  <City>123</City>
+  <Age>12</Age>
+</User>

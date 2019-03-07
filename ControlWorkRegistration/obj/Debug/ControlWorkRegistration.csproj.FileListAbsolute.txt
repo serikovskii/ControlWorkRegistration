@@ -1,0 +1,7 @@
+C:\Users\МукушевА.CORP\source\repos\ControlWorkRegistration\ControlWorkRegistration\bin\Debug\ControlWorkRegistration.exe.config
+C:\Users\МукушевА.CORP\source\repos\ControlWorkRegistration\ControlWorkRegistration\bin\Debug\ControlWorkRegistration.exe
+C:\Users\МукушевА.CORP\source\repos\ControlWorkRegistration\ControlWorkRegistration\bin\Debug\ControlWorkRegistration.pdb
+C:\Users\МукушевА.CORP\source\repos\ControlWorkRegistration\ControlWorkRegistration\obj\Debug\ControlWorkRegistration.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\ControlWorkRegistration\ControlWorkRegistration\obj\Debug\ControlWorkRegistration.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\ControlWorkRegistration\ControlWorkRegistration\obj\Debug\ControlWorkRegistration.exe
+C:\Users\МукушевА.CORP\source\repos\ControlWorkRegistration\ControlWorkRegistration\obj\Debug\ControlWorkRegistration.pdb
